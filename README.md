@@ -21,9 +21,10 @@
 > API 설계, 데이터 모델링, Docker·Nginx 기반 운영 환경 구성 등 서비스 개발 전반을 다루며,
 > 시스템 구조를 효율적으로 설계하는 데 관심이 많아요.
 
-- 🔭 &nbsp;**현재 작업 중** — 여러 서비스에서 공통으로 사용하는 **MSA 형태의 중앙 결제 서버** 설계·운영 *(API_KEY 관리, 보안 설계, 결제 흐름 설계)*
-- ⚡ &nbsp;**최근 진행** — **RabbitMQ 기반 드론 실시간 데이터 처리 파이프라인** 구현 *(Node.js + FastAPI)*
-- 💡 &nbsp;**관심 분야** — 시스템 아키텍처, 실시간 데이터 처리, 결제·보안 설계
+- 🔭 &nbsp;**현재 운영 중** — **[헤이비(Heybe)](https://heybe.kr)** — *집에서 끝내는 중고 명품 거래* 플랫폼 백엔드 (고객용 + [딜러용](https://dealer.heybe.kr) 시스템)
+- 🛠 &nbsp;**최근 설계** — 여러 서비스에서 공통으로 사용하는 **MSA 형태의 중앙 결제 서버** *(API_KEY 관리, 보안 설계, 결제 흐름 설계)*
+- 🌱 &nbsp;**과거 경험** — RabbitMQ 기반 **드론 실시간 데이터 처리 파이프라인** 설계 *(Node.js + FastAPI)*
+- 💡 &nbsp;**관심 분야** — 시스템 아키텍처 설계, 인프라 구성, MSA·분산 시스템, 확장 가능한 백엔드 구조
 - 🚀 &nbsp;**강점** — 새로운 기술을 빠르게 흡수해 실제 서비스에 적용
 
 ---
@@ -33,6 +34,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>👜 <a href="https://heybe.kr">헤이비 (Heybe)</a></h3>
+      <p><i>"집에서 끝내는 중고 명품 거래"</i> — 중고 명품 거래 플랫폼의 백엔드를 담당합니다.<br/>고객용 서비스와 <b><a href="https://dealer.heybe.kr">딜러 위탁 시스템</a></b>을 함께 운영·개선하고 있습니다.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>💳 중앙 결제 MSA 서버</h3>
       <p>여러 서비스에서 공통으로 사용하는 결제 서버를 MSA 형태로 설계·구축. <br/><b>API_KEY 관리, 보안 설계, 결제 흐름 설계</b>를 담당했습니다.</p>
       <p>
@@ -40,16 +51,6 @@
         <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛰️ 드론 실시간 데이터 파이프라인</h3>
-      <p>RabbitMQ 기반의 드론 실시간 데이터 처리 파이프라인을 Node.js와 FastAPI로 구현. <br/><b>실시간 처리 구조를 직접 설계·구축</b>했습니다.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
       </p>
     </td>
   </tr>
